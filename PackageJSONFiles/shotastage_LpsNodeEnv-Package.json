@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/shotastage/SwiftOSLib.git", "version": {"lowerBound": "0.0.1", "upperBound": "1.0.1"}}], "exclude": [], "name": "LpsNodeEnv", "package.targets": [], "testDependencies": []}

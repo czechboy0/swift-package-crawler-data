@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "HelloWorldSwift", "package.targets": [{"dependencies": [], "name": "Utils"}, {"dependencies": ["Utils"], "name": "Server"}], "testDependencies": []}

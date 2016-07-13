@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "IBMDB", "package.targets": [{"dependencies": ["IBMDBLinkerDarwin"], "name": "IBMDB"}, {"dependencies": [], "name": "IBMDBLinkerDarwin"}], "testDependencies": []}
