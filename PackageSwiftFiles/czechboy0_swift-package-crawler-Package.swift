@@ -14,7 +14,8 @@ let package = Package(
         Target(name: "Analyzer", dependencies: [.Target(name: "AnalyzerLib")]),
         Target(name: "ServerLib", dependencies: [.Target(name: "Utils")]),
         Target(name: "Server", dependencies: [.Target(name: "ServerLib")]),
-        Target(name: "DataUpdater", dependencies: [.Target(name: "Utils")])
+        Target(name: "DataUpdater", dependencies: [.Target(name: "Utils")]),
+        Target(name: "StatisticsUpdater", dependencies: [.Target(name: "Utils")])
     ],
     dependencies: [
     	.Package(url: "https://github.com/VeniceX/HTTPSClient.git", majorVersion: 0, minor: 8),
