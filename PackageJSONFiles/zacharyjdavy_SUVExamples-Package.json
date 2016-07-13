@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/zachmokahn/SUV.git", "version": {"lowerBound": "0.0.5", "upperBound": "0.0.6"}}], "exclude": [], "name": "SUVExamples", "package.targets": [{"dependencies": [], "name": "EchoServer"}, {"dependencies": [], "name": "Cat"}, {"dependencies": [], "name": "Idle"}, {"dependencies": [], "name": "Tee"}], "testDependencies": []}

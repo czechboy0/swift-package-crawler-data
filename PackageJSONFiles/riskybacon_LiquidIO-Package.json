@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/riskybacon/CLibuv.git", "version": {"lowerBound": "0.0.1", "upperBound": "0.0.2"}}, {"url": "https://github.com/riskybacon/liquidio-uv.git", "version": {"lowerBound": "0.0.1", "upperBound": "0.0.2"}}], "exclude": [], "package.targets": [], "testDependencies": []}

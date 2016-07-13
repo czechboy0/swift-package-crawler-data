@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": ["Carthage", "Documentation"], "name": "Attributed", "package.targets": [{"dependencies": [], "name": "Attributed"}], "testDependencies": []}

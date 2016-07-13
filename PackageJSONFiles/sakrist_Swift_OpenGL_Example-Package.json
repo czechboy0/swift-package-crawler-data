@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "opengl_example", "package.targets": [{"dependencies": [], "name": "utils"}, {"dependencies": ["utils", "OSXApp"], "name": "app"}, {"dependencies": ["utils"], "name": "OSXApp"}], "testDependencies": []}

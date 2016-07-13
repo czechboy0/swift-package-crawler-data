@@ -1,0 +1,1 @@
+/* CYices depends on The Yices SMT Solver library */

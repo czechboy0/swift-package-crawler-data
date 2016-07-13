@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "FFXIVServer", "package.targets": [{"dependencies": [], "name": "SMGOLFramework"}, {"dependencies": ["SMGOLFramework"], "name": "FFXIVServer"}], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/Bouke/CLibCSV.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "CSV", "package.targets": [], "testDependencies": []}

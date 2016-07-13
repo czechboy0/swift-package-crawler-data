@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "/Users/honzadvorsky/Documents/swift-package-crawler/Cache/PackageSwiftFiles/tailor", "version": {"lowerBound": "3.0.0+alpha", "upperBound": "3.0.1"}}], "exclude": [], "package.targets": [], "testDependencies": []}

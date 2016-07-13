@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/natestedman/ReactiveCocoa.git", "version": {"lowerBound": "10.0.0", "upperBound": "10.0.9223372036854775807"}}], "exclude": [], "name": "HelloWorld", "package.targets": [], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "Basic", "package.targets": [{"dependencies": [], "name": "libc"}, {"dependencies": ["libc"], "name": "POSIX"}, {"dependencies": ["libc", "POSIX"], "name": "Basic"}], "testDependencies": []}

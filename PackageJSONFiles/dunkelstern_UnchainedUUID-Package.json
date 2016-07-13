@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/dunkelstern/UnchainedString.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "UnchainedUUID", "package.targets": [{"dependencies": ["UnchainedUUID"], "name": "UnchainedUUIDTests"}, {"dependencies": [], "name": "UnchainedUUID"}], "testDependencies": []}

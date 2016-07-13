@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SwiftCheck", "package.targets": [{"dependencies": [], "name": "SwiftCheck"}, {"dependencies": [], "name": "SwiftCheck-iOS"}, {"dependencies": [], "name": "SwiftCheck-tvOS"}], "testDependencies": []}

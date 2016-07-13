@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/PerfectlySoft/Perfect.git", "version": {"lowerBound": "0.19.0", "upperBound": "0.19.9223372036854775807"}}], "exclude": [], "name": "Learning", "package.targets": [], "testDependencies": []}

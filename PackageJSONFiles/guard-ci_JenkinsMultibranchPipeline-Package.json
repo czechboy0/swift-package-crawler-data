@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SwiftDemo", "package.targets": [{"dependencies": [], "name": "Basic"}, {"dependencies": ["Basic"], "name": "Foo"}, {"dependencies": ["Basic"], "name": "Bar"}], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/anpol/DispatchKit.git", "version": {"lowerBound": "2.1.0", "upperBound": "2.1.9223372036854775807"}}], "exclude": [], "name": "Nifty", "package.targets": [], "testDependencies": []}

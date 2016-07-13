@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/noppoMan/SlimaneHTTP.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}, {"url": "https://github.com/noppoMan/SlimaneLogger.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": [], "name": "SlimaneMiddleware", "package.targets": [], "testDependencies": []}

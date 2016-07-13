@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/IBM-Swift/Kitura.git", "version": {"lowerBound": "0.5.0", "upperBound": "0.5.9223372036854775807"}}], "exclude": [], "name": "first_Kitura", "package.targets": [], "testDependencies": []}

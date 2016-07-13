@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/IBM-Swift/Kitura-router.git", "version": {"lowerBound": "0.3.0", "upperBound": "0.4.0"}}], "exclude": [], "name": "swift-webapp-sample", "package.targets": [], "testDependencies": []}

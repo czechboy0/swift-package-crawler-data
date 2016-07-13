@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "CSQLite", "package.providers": [{"Brew": "sqlite3"}, {"Apt": "libsqlite3-dev"}], "package.targets": [], "pkgConfig": "libsqlite3", "testDependencies": []}

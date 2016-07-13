@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/cysp/swift-Git2.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.0.1"}}, {"url": "https://github.com/cysp/swift-Git2Autoinitialize.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.0.1"}}], "exclude": [], "name": "git-submodule-commitmsg", "package.targets": [], "testDependencies": []}

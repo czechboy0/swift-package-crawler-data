@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/qutheory/vapor.git", "version": {"lowerBound": "0.4.0", "upperBound": "0.4.9223372036854775807"}}, {"url": "https://github.com/planteam/MongoKitten.git", "version": {"lowerBound": "0.5.0", "upperBound": "0.5.9223372036854775807"}}], "exclude": [], "name": "HelloServer", "package.targets": [], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/elliottminns/blackfish.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}, {"url": "https://github.com/elliottminns/echo.git", "version": {"lowerBound": "0.2.0", "upperBound": "0.2.9223372036854775807"}}], "exclude": [], "name": "SampleBlackfish", "package.targets": [], "testDependencies": []}

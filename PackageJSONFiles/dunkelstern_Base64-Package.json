@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "Base64", "package.targets": [{"dependencies": ["Base64"], "name": "Base64Tests"}, {"dependencies": [], "name": "Base64"}], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/AliSoftware/Dip.git", "version": {"lowerBound": "4.2.0", "upperBound": "4.2.1"}}], "exclude": [], "name": "DipUI", "package.targets": [], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "Crash", "package.targets": [{"dependencies": ["Crash"], "name": "burn"}], "testDependencies": []}

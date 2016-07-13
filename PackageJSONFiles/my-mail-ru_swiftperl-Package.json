@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SwiftPerl", "package.targets": [{"dependencies": [], "name": "CPerl"}, {"dependencies": ["CPerl"], "name": "Perl"}, {"dependencies": [], "name": "CPerlCoro"}, {"dependencies": ["Perl", "CPerlCoro"], "name": "PerlCoro"}, {"dependencies": ["Perl"], "name": "SampleXS"}], "testDependencies": []}

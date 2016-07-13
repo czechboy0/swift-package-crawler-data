@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "DiffMatchPatch", "package.targets": [{"dependencies": ["diff_match_patch"], "name": "DiffMatchPatch"}], "testDependencies": []}

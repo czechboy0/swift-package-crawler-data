@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SwiftSockets", "package.targets": [{"dependencies": [], "name": "SwiftSockets"}, {"dependencies": ["SwiftSockets"], "name": "SwiftyEchoDaemon"}], "testDependencies": []}

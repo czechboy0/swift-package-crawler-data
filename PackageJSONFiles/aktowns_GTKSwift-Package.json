@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/aktowns/CGTK3.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.0.1"}}], "exclude": [], "name": "GTKSwift", "package.targets": [{"dependencies": ["Atk", "Gdk", "Gio", "GObject", "Gtk"], "name": "GTKSwift"}, {"dependencies": ["GTKSwift"], "name": "GTKSwiftDemo"}], "testDependencies": []}

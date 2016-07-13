@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "CZeroMQ", "package.targets": [], "pkgConfig": "libzmq", "testDependencies": []}

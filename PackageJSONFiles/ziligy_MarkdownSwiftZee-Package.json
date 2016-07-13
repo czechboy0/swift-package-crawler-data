@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/ziligy/CDiscount.git", "version": {"lowerBound": "0.1.4", "upperBound": "0.1.5"}}], "exclude": [], "name": "MarkdownSwiftZee", "package.targets": [], "testDependencies": []}

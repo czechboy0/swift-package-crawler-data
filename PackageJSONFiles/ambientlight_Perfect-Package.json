@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": ["Sources/LinuxBridge", "Sources/PerfectLibTests"], "name": "PerfectLib", "package.targets": [{"dependencies": ["OpenSSL", "cURL"], "name": "PerfectLib"}, {"dependencies": [], "name": "OpenSSL"}, {"dependencies": [], "name": "cURL"}], "testDependencies": []}

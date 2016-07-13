@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/johnlinvc/swiftpy.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "swiftpy_demo", "package.targets": [], "testDependencies": []}

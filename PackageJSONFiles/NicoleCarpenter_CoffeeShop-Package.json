@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/bppr/Swiftest.git", "version": {"lowerBound": "0.1.8", "upperBound": "0.1.9"}}], "exclude": [], "name": "Cafe", "package.targets": [{"dependencies": [], "name": "spec"}], "testDependencies": []}

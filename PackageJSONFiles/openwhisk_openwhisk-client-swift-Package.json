@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": ["OpenWhiskWatch", "OpenWhiskTests", "OpenWhisk/OpenWhiskButton.swift"], "name": "OpenWhisk", "package.targets": [], "testDependencies": []}

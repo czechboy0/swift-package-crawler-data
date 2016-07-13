@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SQLite.swift", "package.targets": [{"dependencies": ["CSQLite"], "name": "SQLite"}, {"dependencies": [], "name": "CSQLite"}], "testDependencies": []}

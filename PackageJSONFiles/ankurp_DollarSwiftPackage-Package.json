@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/ankurp/Dollar", "version": {"lowerBound": "5.0.0", "upperBound": "5.0.9223372036854775807"}}, {"url": "https://github.com/ankurp/Cent", "version": {"lowerBound": "5.0.0", "upperBound": "5.0.9223372036854775807"}}], "exclude": [], "name": "Test", "package.targets": [], "testDependencies": []}

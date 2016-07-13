@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/notonthehighstreet/swift-libmysql", "version": {"lowerBound": "0.0.0", "upperBound": "0.0.9223372036854775807"}}], "exclude": [], "name": "MySQL", "package.targets": [{"dependencies": ["MySQL"], "name": "Example"}, {"dependencies": [], "name": "Example"}], "testDependencies": []}

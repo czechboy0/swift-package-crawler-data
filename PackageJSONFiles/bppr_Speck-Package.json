@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "Speck", "package.targets": [{"dependencies": [], "name": "SpeckCore"}, {"dependencies": ["SpeckCore"], "name": "SpeckAsserts"}, {"dependencies": ["SpeckCore", "SpeckAsserts"], "name": "Speck"}], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "UnchainedString", "package.targets": [{"dependencies": ["UnchainedString"], "name": "UnchainedStringTests"}, {"dependencies": [], "name": "UnchainedString"}], "testDependencies": []}

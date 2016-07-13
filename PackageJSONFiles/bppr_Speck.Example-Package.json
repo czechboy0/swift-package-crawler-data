@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/bppr/Speck", "version": {"lowerBound": "0.0.2", "upperBound": "0.0.3"}}], "exclude": [], "name": "Speck", "package.targets": [], "testDependencies": []}

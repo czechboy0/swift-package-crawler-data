@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/mixalich7b/ObjectMapper.git", "version": {"lowerBound": "1.3.1", "upperBound": "1.3.2"}}], "exclude": ["Examples", "SwiftTBot.podspec"], "name": "SwiftTBot", "package.targets": [{"dependencies": [], "name": "SwiftTBot/Classes"}], "testDependencies": []}

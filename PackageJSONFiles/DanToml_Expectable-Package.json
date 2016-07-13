@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/DanielTomlinson/FailureType.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "Expectable", "package.targets": [], "testDependencies": []}

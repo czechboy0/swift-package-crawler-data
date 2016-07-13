@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/krzyzanowskim/CryptoSwift", "version": {"lowerBound": "0.2.2", "upperBound": "0.3.0"}}], "exclude": [], "name": "JWT", "package.targets": [], "testDependencies": []}

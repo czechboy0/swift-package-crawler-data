@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/IBM-Swift/Swift-cfenv.git", "version": {"lowerBound": "1.2.0", "upperBound": "1.2.9223372036854775807"}}], "exclude": [], "name": "HelloWorldSwift", "package.targets": [{"dependencies": [], "name": "Utils"}, {"dependencies": ["Utils"], "name": "Server"}], "testDependencies": []}

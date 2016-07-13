@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/jjjjjeffrey/CCurl.git", "version": {"lowerBound": "0.0.1", "upperBound": "1.0.0"}}], "exclude": [], "name": "SwiftCURL", "package.targets": [], "testDependencies": []}

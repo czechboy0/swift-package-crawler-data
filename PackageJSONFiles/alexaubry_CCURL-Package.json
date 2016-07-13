@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "CCURL", "package.providers": [{"Apt": "curl"}, {"Brew": "curl"}], "package.targets": [], "pkgConfig": "curl", "testDependencies": []}

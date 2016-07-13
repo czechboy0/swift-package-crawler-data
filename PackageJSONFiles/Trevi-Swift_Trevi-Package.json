@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/Trevi-Swift/Trevi-sys.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}], "exclude": ["Makefile", "Xcode"], "name": "Trevi", "package.targets": [], "testDependencies": []}

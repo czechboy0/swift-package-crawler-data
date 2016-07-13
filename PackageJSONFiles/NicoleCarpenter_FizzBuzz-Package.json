@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/zachmokahn/Swiftest.git", "version": {"lowerBound": "0.1.8", "upperBound": "0.1.9"}}], "exclude": [], "name": "fizzbuzz", "package.targets": [{"dependencies": [], "name": "Application"}, {"dependencies": ["Application"], "name": "Specs"}], "testDependencies": []}

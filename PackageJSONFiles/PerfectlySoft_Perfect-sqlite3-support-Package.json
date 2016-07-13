@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SQLite3", "package.providers": [{"Apt": "sqlite3"}], "package.targets": [], "pkgConfig": "sqlite3", "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": ["Info.plist", "Library.xcodeproj", "README.md"], "name": "Library", "package.targets": [{"dependencies": [], "name": "Library"}, {"dependencies": ["UIKit"], "name": "UI"}], "testDependencies": []}

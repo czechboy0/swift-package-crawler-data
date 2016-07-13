@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": ["BioSwiftTests", "BioSwift/Crispr/Saved"], "name": "BioSwift", "package.targets": [], "testDependencies": []}

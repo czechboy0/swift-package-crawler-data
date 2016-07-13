@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/ddunbar/libuv.git", "version": {"lowerBound": "1.8.99", "upperBound": "1.8.100"}}, {"url": "https://github.com/ddunbar/http-parser.git", "version": {"lowerBound": "2.6.99", "upperBound": "2.6.100"}}], "exclude": [], "name": "sos-http-server", "package.targets": [], "testDependencies": []}
