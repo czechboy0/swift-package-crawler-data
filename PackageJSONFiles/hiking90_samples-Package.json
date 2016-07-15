@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "samples", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/hiking90/glib-swift.git", "version": {"lowerBound": "0.1.0", "upperBound": "1.0.0"}}], "exclude": [], "name": "samples", "package.targets": [], "testDependencies": []}

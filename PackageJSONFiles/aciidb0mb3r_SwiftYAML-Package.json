@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SwiftYAML", "package.targets": [{"dependencies": ["libyaml"], "name": "SwiftYAML"}], "testDependencies": []}
