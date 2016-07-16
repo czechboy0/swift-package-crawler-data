@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/zmeyc/SQLiteMacOSX.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}], "exclude": ["GRDB.xcworkspace", "Playgrounds", "SQLCipher", "SQLiteCustom", "Support", "DemoApps"], "name": "GRDB.swift", "package.targets": [], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/emaloney/CleanroomASL", "version": {"lowerBound": "1.3.7", "upperBound": "2.0.0"}}], "exclude": [], "name": "CleanroomLogger", "package.targets": [], "testDependencies": []}

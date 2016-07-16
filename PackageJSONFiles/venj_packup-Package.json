@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/kylef/Commander.git", "version": {"lowerBound": "0.4.0", "upperBound": "0.4.9223372036854775807"}}, {"url": "https://github.com/venj/swift-package-manager.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": [], "name": "packup", "package.targets": [], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/norio-nomura/Nimble", "version": {"lowerBound": "5.0.0-alpha.30p2", "upperBound": "5.0.1"}}], "exclude": ["Sources/QuickObjectiveC"], "name": "Quick", "package.targets": [], "testDependencies": []}

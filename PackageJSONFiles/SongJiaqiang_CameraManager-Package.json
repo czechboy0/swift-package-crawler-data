@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "CameraManager", "package.targets": [{"dependencies": ["CameraManager"], "name": "camera"}], "testDependencies": []}

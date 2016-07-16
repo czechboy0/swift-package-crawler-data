@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/elliottminns/PathKit.git", "version": {"lowerBound": "0.7.0", "upperBound": "0.7.9223372036854775807"}}], "exclude": [], "name": "Stencil", "package.targets": [], "testDependencies": [{"url": "https://github.com/kylef/spectre-build", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}]}

@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": ["Sources/RxCocoa", "Sources/RxTests", "Sources/AllTests"], "name": "RxSwift", "package.targets": [{"dependencies": [], "name": "RxSwift"}, {"dependencies": ["RxSwift"], "name": "RxTests"}, {"dependencies": ["RxSwift"], "name": "RxBlocking"}, {"dependencies": ["RxSwift", "RxBlocking", "RxTests"], "name": "AllTests"}], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "Nimble", "package.targets": [{"dependencies": ["Nimble"], "name": "NimbleTests"}], "testDependencies": []}

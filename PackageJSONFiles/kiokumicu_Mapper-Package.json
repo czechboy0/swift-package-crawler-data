@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/Zewo/StructuredData.git", "version": {"lowerBound": "0.7.0", "upperBound": "0.7.9223372036854775807"}}], "exclude": [], "name": "Mapper", "package.targets": [], "testDependencies": []}

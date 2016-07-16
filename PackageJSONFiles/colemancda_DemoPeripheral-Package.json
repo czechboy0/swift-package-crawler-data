@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/PureSwift/GATT", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}], "exclude": ["Xcode"], "name": "Peripheral", "package.targets": [{"dependencies": [], "name": "Peripheral"}], "testDependencies": []}

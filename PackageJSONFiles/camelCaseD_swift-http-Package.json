@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "swift-http", "package.targets": [{"dependencies": ["http"], "name": "example"}, {"dependencies": [], "name": "http"}], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/Alamofire/Alamofire.git", "version": {"lowerBound": "3.1.5", "upperBound": "4.0.0"}}, {"url": "https://github.com/SwiftyJSON/SwiftyJSON.git", "version": {"lowerBound": "2.3.1", "upperBound": "3.0.0"}}], "exclude": [], "name": "TRON", "package.targets": [], "testDependencies": []}

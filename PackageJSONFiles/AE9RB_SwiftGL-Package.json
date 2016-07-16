@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SwiftGL", "package.targets": [{"dependencies": [], "name": "SwiftGL"}, {"dependencies": [], "name": "SwiftGLmath"}, {"dependencies": [], "name": "SwiftGLres"}], "testDependencies": []}

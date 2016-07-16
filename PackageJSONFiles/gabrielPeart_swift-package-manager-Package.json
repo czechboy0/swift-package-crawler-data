@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SwiftPackageManager", "package.targets": [{"dependencies": ["POSIX"], "name": "sys"}, {"dependencies": ["libc"], "name": "POSIX"}, {"dependencies": ["sys", "PackageDescription"], "name": "dep"}, {"dependencies": ["dep"], "name": "swift-get"}, {"dependencies": ["dep"], "name": "swift-build"}], "testDependencies": []}
