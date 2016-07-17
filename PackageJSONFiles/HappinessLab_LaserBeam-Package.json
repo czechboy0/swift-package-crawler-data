@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/shotastage/SwiftLibC.git", "version": {"lowerBound": "0.0.1", "upperBound": "1.0.1"}}], "exclude": [], "name": "Laser", "package.targets": [], "testDependencies": []}

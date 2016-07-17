@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/stack/CommonCrypto", "version": {"lowerBound": "0.0.0", "upperBound": "0.0.9223372036854775807"}}], "exclude": ["Sources/StackCrypto/Linux"], "name": "StackCrypto", "package.targets": [], "testDependencies": []}
