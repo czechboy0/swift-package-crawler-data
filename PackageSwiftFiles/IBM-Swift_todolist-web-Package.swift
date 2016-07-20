@@ -19,10 +19,10 @@ import PackageDescription
 let package = Package(
     name: "TodoListWeb",
     dependencies: [
-        .Package(url: "https://github.com/IBM-Swift/Kitura.git", majorVersion: 0, minor: 21),
+        .Package(url: "https://github.com/IBM-Swift/Kitura.git", majorVersion: 0, minor: 22),
         .Package(url: "https://github.com/IBM-Swift/HeliumLogger.git", majorVersion: 0, minor: 12),
-        .Package(url: "https://github.com/IBM-Swift/Kitura-CredentialsFacebook", majorVersion: 0, minor: 21),
-        .Package(url: "https://github.com/IBM-Swift/todolist-api", majorVersion: 0),
+        .Package(url: "https://github.com/IBM-Swift/Kitura-CredentialsFacebook", majorVersion: 0, minor: 22),
+        .Package(url: "https://github.com/IBM-Swift/todolist-api", majorVersion: 0, minor: 2),
         /*.Package(url: "https://github.com/IBM-Swift/Swift-cfenv.git", majorVersion: 1, minor: 3)*/
     ]
 )

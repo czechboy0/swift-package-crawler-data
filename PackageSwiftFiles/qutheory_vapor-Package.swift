@@ -5,36 +5,16 @@ var exclude: [String] = []
 exclude.append("Sources/Generator")
 #endif
 
-var targets: [Target] = [
-    Target(
-        name: "Development",
-        dependencies: [
-            .Target(name: "Vapor")
-        ]
-    ),
-    Target(
-        name: "Performance",
-        dependencies: [
-            .Target(name: "Vapor")
-        ]
-    ),
+var targets = [
+    Target(name: "Development", dependencies: ["Vapor"]),
+    Target(name: "Performance", dependencies: ["Vapor"])
 ]
-#if !os(Linux)
-targets += [
-  Target(
-      name: "Generator"
-  )
-]
-#endif
 
 let package = Package(
     name: "Vapor",
     dependencies: [
         //Standards package. Contains protocols for cross-project compatability.
         .Package(url: "https://github.com/open-swift/S4.git", majorVersion: 0, minor: 10),
-
-        //Parses and serializes JSON - using fork until update core library
-        .Package(url: "https://github.com/czechboy0/Jay.git", majorVersion: 0, minor: 12),
 
         //SHA2 + HMAC hashing. Used by the core to create session identifiers.
         .Package(url: "https://github.com/CryptoKitten/HMAC.git", majorVersion: 0, minor: 8),

@@ -1,8 +1,8 @@
-//////////////////////////////////////////////////////////////////////////////////////////////////
 //
-//  Websocket.swift
+//  Package.Swift
+//  Starscream
 //
-//  Created by Dalton Cherry on 7/16/14.
+//  Created by Dalton Cherry on 5/16/15.
 //  Copyright (c) 2014-2015 Dalton Cherry.
 //
 //  Licensed under the Apache License, Version 2.0 (the "License");
@@ -17,7 +17,6 @@
 //  See the License for the specific language governing permissions and
 //  limitations under the License.
 //
-//////////////////////////////////////////////////////////////////////////////////////////////////
 
 import PackageDescription
 

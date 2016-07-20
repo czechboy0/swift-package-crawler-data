@@ -22,6 +22,6 @@ let package = Package(
         .Package(url: "https://github.com/chiahuang/Kitura-redis", majorVersion: 0, minor: 18),
         .Package(url: "https://github.com/IBM-Swift/LoggerAPI.git", majorVersion: 0, minor: 8),
         .Package(url: "https://github.com/IBM-Swift/HeliumLogger.git", majorVersion: 0, minor: 9),
-        .Package(url: "https://github.com/IBM-Swift/todolist-web.git", majorVersion: 0)
+        .Package(url: "https://github.com/IBM-Swift/todolist-web.git", majorVersion: 0, minor: 2)
     ]
 )

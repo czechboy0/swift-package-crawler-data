@@ -1,6 +1,3 @@
 import PackageDescription
 
-let package = Package(name: "CryptoEssentials",
-                      exclude: [],
-                      dependencies: []
-)
+let package = Package(name: "CryptoEssentials")
