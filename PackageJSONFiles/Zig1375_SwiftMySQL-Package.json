@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/Zig1375/CMySQLosx.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "SwiftMySQL", "package.targets": [], "testDependencies": []}

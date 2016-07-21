@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "YSMessagePack", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/michael-yuji/LinuxFoundation.git", "version": {"lowerBound": "0.0.0", "upperBound": "1.0.0"}}], "exclude": [], "name": "YSMessagePack", "package.targets": [], "testDependencies": []}
