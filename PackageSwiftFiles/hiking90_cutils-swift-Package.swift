@@ -1,6 +1,6 @@
 import PackageDescription
 
-let package = Package(
+let package_cutils = Package(
     name: "cutils",
     pkgConfig: "cutils"
 )

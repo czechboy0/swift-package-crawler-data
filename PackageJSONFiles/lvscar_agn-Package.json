@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/lvscar/SwiftFoundation.git", "version": {"lowerBound": "2.0.0", "upperBound": "3.0.0"}}], "exclude": [], "name": "agn", "package.targets": [], "testDependencies": []}
