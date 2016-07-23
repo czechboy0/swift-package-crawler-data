@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "Nifty", "package.targets": [{"dependencies": [], "name": "Core"}, {"dependencies": ["Core"], "name": "LinAlg"}, {"dependencies": ["Core"], "name": "Stats"}], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "libxml2", "package.providers": [{"Brew": "libxml2"}, {"Apt": "libxml2-dev"}], "package.targets": [], "pkgConfig": "libxml-2.0", "testDependencies": []}

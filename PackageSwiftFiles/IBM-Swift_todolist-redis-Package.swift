@@ -19,9 +19,9 @@ import PackageDescription
 let package = Package(
     name: "TodoList",
     dependencies: [
-        .Package(url: "https://github.com/chiahuang/Kitura-redis", majorVersion: 0, minor: 18),
-        .Package(url: "https://github.com/IBM-Swift/LoggerAPI.git", majorVersion: 0, minor: 8),
-        .Package(url: "https://github.com/IBM-Swift/HeliumLogger.git", majorVersion: 0, minor: 9),
-        .Package(url: "https://github.com/IBM-Swift/todolist-web.git", majorVersion: 0, minor: 2)
+        .Package(url: "https://github.com/IBM-Swift/Kitura-redis", majorVersion: 0, minor: 22),
+//        .Package(url: "https://github.com/IBM-Swift/LoggerAPI.git", majorVersion: 0, minor: 7),
+        .Package(url: "https://github.com/IBM-Swift/HeliumLogger.git", majorVersion: 0, minor: 12),
+        .Package(url: "https://github.com/IBM-Swift/todolist-web.git", majorVersion: 0, minor: 3)
     ]
 )

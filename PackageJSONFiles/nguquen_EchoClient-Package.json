@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/IBM-Swift/BlueSocket.git", "version": {"lowerBound": "0.6.0", "upperBound": "0.6.9223372036854775807"}}], "exclude": [], "name": "EchoClient", "package.targets": [], "testDependencies": []}

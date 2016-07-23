@@ -1,1 +1,1 @@
-{"dependencies": [{"url": "https://github.com/open-swift/C7.git", "version": {"lowerBound": "0.8.0", "upperBound": "1.0.0"}}], "exclude": [], "name": "Jay", "package.targets": [{"dependencies": [], "name": "Jay"}, {"dependencies": ["Jay"], "name": "JayExample"}], "testDependencies": []}
+{"dependencies": [], "exclude": [], "name": "Jay", "package.targets": [{"dependencies": ["Jay"], "name": "JayExample"}], "testDependencies": []}
