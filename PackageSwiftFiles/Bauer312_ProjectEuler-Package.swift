@@ -18,11 +18,6 @@ let package = Package(
   Target(
     name:"Demo",
     dependencies: [
-    .Target(name:"Multiples"),
-    .Target(name:"Fibonacci"),
-    .Target(name:"Primes"),
-    .Target(name:"Palindromes"),
-    .Target(name:"Sums"),
     .Target(name:"Problem")
     ]
   ),
@@ -47,6 +42,7 @@ let package = Package(
     .Target(name:"Multiples"),
     .Target(name:"Fibonacci"),
     .Target(name:"Primes"),
+    .Target(name:"Sums"),
     .Target(name:"Palindromes")
     ]
   )

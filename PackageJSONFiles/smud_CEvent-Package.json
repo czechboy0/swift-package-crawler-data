@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "CEvent", "package.providers": [{"Brew": "libevent"}, {"Apt": "libevent2-dev"}], "package.targets": [], "pkgConfig": "libevent", "testDependencies": []}
+{"dependencies": [], "exclude": [], "name": "CEvent", "package.providers": [{"Brew": "libevent"}, {"Apt": "libevent-dev"}], "package.targets": [], "pkgConfig": "libevent", "testDependencies": []}

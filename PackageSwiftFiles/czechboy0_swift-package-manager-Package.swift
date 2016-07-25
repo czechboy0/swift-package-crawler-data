@@ -37,13 +37,13 @@ let package = Package(
             name: "POSIX",
             dependencies: ["libc"]),
         Target(
-            /** Abstractions for common operations, should migrate to Basic */
-            name: "Utility",
-            dependencies: ["POSIX"]),
-        Target(
             /** Basic support library */
             name: "Basic",
             dependencies: ["libc", "POSIX"]),
+        Target(
+            /** Abstractions for common operations, should migrate to Basic */
+            name: "Utility",
+            dependencies: ["POSIX", "Basic"]),
         Target(
             /** Source control operations */
             name: "SourceControl",
@@ -59,17 +59,17 @@ let package = Package(
             /** Package model conventions and loading support */
             name: "PackageLoading",
             dependencies: ["Basic", "PackageDescription", "PackageModel"]),
-        Target(
-            /** Data structures and support for complete package graphs */
-            name: "PackageGraph",
-            dependencies: ["Basic", "PackageLoading", "PackageModel"]),
 
         // MARK: Package Dependency Resolution
         
         Target(
             /** Fetches Packages and their dependencies */
             name: "Get",
-            dependencies: ["Basic", "PackageDescription", "PackageModel"]),
+            dependencies: ["Basic", "PackageDescription", "PackageModel", "PackageLoading"]),
+        Target(
+            /** Data structures and support for complete package graphs */
+            name: "PackageGraph",
+            dependencies: ["Basic", "Get", "PackageLoading", "PackageModel"]),
         
         // MARK: Package Manager Functionality
         
