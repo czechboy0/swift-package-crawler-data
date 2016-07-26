@@ -28,5 +28,6 @@ let package = Package(
             name: "Markdown"
         ),
     ],
-    dependencies: [.Package(url: "https://github.com/crossroadlabs/CDiscount.git", majorVersion: 0)]
+    dependencies: [.Package(url: "https://github.com/crossroadlabs/CDiscount.git", majorVersion: 0)],
+    exclude: ["Carthage"]
 )

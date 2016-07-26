@@ -25,3 +25,8 @@ let package = Package(
         .Package(url: "https://github.com/IBM-Swift/CHTTPParser.git", majorVersion: 0, minor: 2),
     ]
 )
+
+#if os(Linux)
+    package.dependencies.append(
+        .Package(url: "https://github.com/IBM-Swift/CEpoll.git", majorVersion: 0, minor: 1))
+#endif

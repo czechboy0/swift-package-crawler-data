@@ -11,5 +11,19 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftPM"
+    name: "SwiftPM",
+    targets: [
+        Target(
+            name: "hello",
+            dependencies: ["Basic"]),
+        Target(
+            name: "libc",
+            dependencies: []),
+        Target(
+            name: "POSIX",
+            dependencies: ["libc"]),
+        Target(
+            name: "Basic",
+            dependencies: ["libc", "POSIX"]),
+    ]
 )

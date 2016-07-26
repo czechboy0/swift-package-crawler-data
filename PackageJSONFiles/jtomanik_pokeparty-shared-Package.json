@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/IBM-Swift/SwiftyJSON.git", "version": {"lowerBound": "9.0.0", "upperBound": "9.9223372036854775807.9223372036854775807"}}], "exclude": ["Sources/PokePartyShared/SwiftyJSON"], "name": "PokePartyShared", "package.targets": [], "testDependencies": []}

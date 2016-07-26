@@ -1,1 +1,1 @@
-{"dependencies": [{"url": "https://github.com/antitypical/Result.git", "version": {"lowerBound": "2.0.0", "upperBound": "2.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "Boilerplate", "package.targets": [{"dependencies": [], "name": "Boilerplate"}], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/antitypical/Result.git", "version": {"lowerBound": "3.0.0-alpha.1", "upperBound": "3.0.1"}}], "exclude": ["Carthage"], "name": "Boilerplate", "package.targets": [{"dependencies": [], "name": "Boilerplate"}], "testDependencies": []}
