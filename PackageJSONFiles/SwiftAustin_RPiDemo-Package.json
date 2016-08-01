@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/uraimo/SwiftyGPIO.git", "version": {"lowerBound": "0.8.5", "upperBound": "0.8.6"}}], "exclude": [], "name": "RPiDemo", "package.targets": [{"dependencies": [], "name": "RPiDemo"}], "testDependencies": []}

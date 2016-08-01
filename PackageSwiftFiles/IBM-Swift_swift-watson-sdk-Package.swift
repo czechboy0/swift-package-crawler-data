@@ -12,6 +12,7 @@ let package = Package(
         Target(name: "NaturalLanguageClassifier", dependencies: [.Target(name: "RestKit")]),
         Target(name: "ToneAnalyzer", dependencies: [.Target(name: "RestKit")]),
         Target(name: "PersonalityInsights", dependencies: [.Target(name: "RestKit")]),
+        Target(name: "Conversation", dependencies: [.Target(name: "RestKit")]),
         Target(name: "AlchemyVision", dependencies: [.Target(name: "RestKit")])
     ]
 )

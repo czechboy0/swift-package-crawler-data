@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "zlib", "package.targets": [{"dependencies": [], "name": "Czlib"}, {"dependencies": ["Czlib"], "name": "zlib-example"}], "testDependencies": []}
+{"dependencies": [], "exclude": [], "name": "zlib", "package.targets": [{"dependencies": ["Czlib"], "name": "zlib-example"}], "testDependencies": []}

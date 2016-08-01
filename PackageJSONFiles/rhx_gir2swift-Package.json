@@ -1,1 +1,1 @@
-{"dependencies": [{"url": "https://github.com/rhx/SwiftLibXML.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "gir2swift", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/rhx/SwiftLibXML.git", "version": {"lowerBound": "1.1.0", "upperBound": "1.1.9223372036854775807"}}], "exclude": [], "name": "gir2swift", "package.targets": [], "testDependencies": []}

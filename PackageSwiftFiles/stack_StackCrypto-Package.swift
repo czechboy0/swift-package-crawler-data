@@ -11,10 +11,10 @@ fatalError("Unsupported operating system")
 #endif
 
 let package = Package(
-	name: "StackCrypto",
-	exclude: excludes,
-	dependencies: [
-		cryptoPackage,
-	]
+    name: "StackCrypto",
+    dependencies: [
+        cryptoPackage,
+    ],
+    exclude: excludes
 )
 

@@ -8,6 +8,9 @@ let package = Package(
             dependencies: [.Target(name: "RxSwift")]),
         Target(
             name: "swiftled",
-            dependencies: [.Target(name: "OPC")]),
+            dependencies: [
+				.Target(name: "OPC"),
+				.Target(name: "Cleanse"),
+			]),
     ]
 )

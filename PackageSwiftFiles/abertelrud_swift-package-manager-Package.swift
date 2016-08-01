@@ -83,6 +83,7 @@ let package = Package(
             dependencies: ["Basic", "PackageGraph"]),
 
         // MARK: Commands
+        
         Target(
             /** High-level commands */
             name: "Commands",
@@ -101,7 +102,14 @@ let package = Package(
             dependencies: ["Commands"]),
         Target(
             /** Shim tool to find test names on OS X */
-            name: "swiftpm-xctest-helper"),
+            name: "swiftpm-xctest-helper",
+            dependencies: []),
+
+        // MARK: Additional Test Dependencies
+        
+        Target(
+            name: "FunctionalTests",
+            dependencies: ["Basic", "Utility", "PackageModel"]),
     ])
 
 

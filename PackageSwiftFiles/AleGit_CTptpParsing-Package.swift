@@ -1,1 +1,5 @@
-/* CTptpParsing depends on TptpParsing library `sudo make install` */
+import PackageDescription
+
+let package = Package(
+    name: "CTptpParsing"
+)

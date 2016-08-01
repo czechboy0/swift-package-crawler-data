@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/CryptoKitten/HMAC.git", "version": {"lowerBound": "0.10.0", "upperBound": "0.10.9223372036854775807"}}], "exclude": [], "name": "PBKDF2", "package.targets": [], "testDependencies": []}

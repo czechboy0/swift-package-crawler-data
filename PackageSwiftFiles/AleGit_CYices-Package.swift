@@ -1,1 +1,5 @@
-/* CYices depends on The Yices SMT Solver library */
+import PackageDescription
+
+let package = Package(
+    name: "CYices"
+)
