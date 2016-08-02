@@ -1,10 +1,10 @@
 //
 //  Package.swift
-//  CLibBSD_Linux
+//  Cifaddrs
 //
 
 import PackageDescription
 
 let package = Package(
-	name: "CLibBSD_Linux"
+	name: "Cifaddrs"
 )

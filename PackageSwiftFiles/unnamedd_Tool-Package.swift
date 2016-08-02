@@ -8,6 +8,7 @@ let package = Package(
     ],
     dependencies: [
         .Package(url: "https://github.com/Zewo/Mustache.git", majorVersion: 0, minor: 10),
-        .Package(url: "https://github.com/VeniceX/File.git", majorVersion: 0, minor: 8),
+        .Package(url: "https://github.com/VeniceX/File.git", majorVersion: 0, minor: 9),
+        .Package(url: "https://github.com/Zewo/Log", majorVersion: 0, minor: 9)
     ]
 )

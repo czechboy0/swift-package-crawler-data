@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/saltzmanjoelh/TaskExtension.git", "version": {"lowerBound": "0.0.0", "upperBound": "10.0.0"}}, {"url": "https://github.com/saltzmanjoelh/DockerTask.git", "version": {"lowerBound": "0.0.0", "upperBound": "10.0.0"}}], "exclude": [], "name": "LinuxRunners", "package.targets": [], "testDependencies": []}

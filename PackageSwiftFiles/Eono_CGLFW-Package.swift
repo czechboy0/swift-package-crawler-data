@@ -1,5 +1,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "CommonMark"
+	name: "CGLFW",
+	pkgConfig: "glfw3"
 )

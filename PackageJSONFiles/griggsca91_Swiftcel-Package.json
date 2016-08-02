@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "SwiftySwift", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/PerfectlySoft/Perfect-XML.git", "version": {"lowerBound": "0.0.0", "upperBound": "10.0.0"}}], "exclude": [], "name": "SwiftySwift", "package.targets": [{"dependencies": ["Swiftcel", "SwiftSV"], "name": "SwiftySwift"}, {"dependencies": [], "name": "Swiftcel"}, {"dependencies": [], "name": "SwiftSV"}], "testDependencies": []}
