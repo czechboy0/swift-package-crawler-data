@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/qutheory/path-kit.git", "version": {"lowerBound": "0.6.0", "upperBound": "0.6.9223372036854775807"}}], "exclude": [], "name": "Stencil", "package.targets": [], "testDependencies": [{"url": "https://github.com/kylef/spectre-build", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}]}

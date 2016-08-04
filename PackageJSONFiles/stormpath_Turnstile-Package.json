@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "Turnstile", "package.targets": [], "testDependencies": []}
+{"dependencies": [], "exclude": [], "name": "Turnstile", "package.targets": [{"dependencies": ["TurnstileCrypto"], "name": "Turnstile"}, {"dependencies": [], "name": "TurnstileCrypto"}], "testDependencies": []}
