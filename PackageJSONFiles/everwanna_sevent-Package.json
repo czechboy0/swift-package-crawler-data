@@ -1,1 +1,1 @@
-{"dependencies": [{"url": "/Users/honzadvorsky/Documents/swift-package-crawler/Cache/PackageSwiftFiles/event", "version": {"lowerBound": "2.0.1", "upperBound": "2.0.2"}}], "exclude": [], "name": "Sevent", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/everwanna/event.git", "version": {"lowerBound": "2.0.1", "upperBound": "2.0.2"}}], "exclude": [], "name": "Sevent", "package.targets": [], "testDependencies": []}

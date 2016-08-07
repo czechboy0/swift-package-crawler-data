@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/qutheory/console.git", "version": {"lowerBound": "0.4.0", "upperBound": "0.4.9223372036854775807"}}], "exclude": [], "name": "VaporToolbox", "package.targets": [{"dependencies": [], "name": "VaporToolbox"}, {"dependencies": ["VaporToolbox"], "name": "Executable"}], "testDependencies": []}

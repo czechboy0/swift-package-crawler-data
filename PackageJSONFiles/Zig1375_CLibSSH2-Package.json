@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "CLibSSH2", "package.providers": [{"Brew": "libssh2"}, {"Apt": "libssh2-1-dev"}], "package.targets": [], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/IBM-Swift/CCurl.git", "version": {"lowerBound": "0.0.0", "upperBound": "10.0.0"}}, {"url": "https://github.com/IBM-Swift/CHTTPParser.git", "version": {"lowerBound": "0.0.0", "upperBound": "10.0.0"}}], "exclude": [], "name": "SFCurl", "package.targets": [], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "CLibgit2", "package.providers": [{"Brew": "libgit2"}, {"Apt": "libgit2-dev"}], "package.targets": [], "pkgConfig": "libgit2", "testDependencies": []}
