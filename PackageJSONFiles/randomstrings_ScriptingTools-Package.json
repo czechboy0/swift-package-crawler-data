@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "ScriptingTools", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/randomstrings/CommonSwift.git", "version": {"lowerBound": "1.1.0", "upperBound": "1.1.9223372036854775807"}}], "exclude": [], "name": "ScriptingTools", "package.targets": [], "testDependencies": []}

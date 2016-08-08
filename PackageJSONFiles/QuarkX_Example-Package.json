@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/QuarkX/Quark.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "TodoApplication", "package.targets": [{"dependencies": [], "name": "TodoDomain"}, {"dependencies": ["TodoDomain"], "name": "TodoApplication"}], "testDependencies": []}

@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "SwallowIO", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/open-swift/C7.git", "version": {"lowerBound": "0.11.0", "upperBound": "0.11.1000"}}], "exclude": [], "name": "SwallowIO", "package.targets": [], "testDependencies": []}
