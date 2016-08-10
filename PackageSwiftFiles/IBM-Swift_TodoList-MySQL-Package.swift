@@ -31,7 +31,7 @@ let package = Package(
         .Package(url: "https://github.com/IBM-Swift/Kitura.git",        majorVersion: 0, minor: 22),
         .Package(url: "https://github.com/IBM-Swift/HeliumLogger.git",  majorVersion: 0, minor: 12),
         .Package(url: "https://github.com/IBM-Swift/todolist-web",      majorVersion: 0, minor: 3),
-        .Package(url: "https://github.com/qutheory/mysql",              majorVersion: 0, minor: 2),
+        .Package(url: "https://github.com/rfdickerson/mysql",              majorVersion: 0, minor: 4),
         
     ]
 )
