@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "Kineo", "package.targets": [{"dependencies": ["Kineo"], "name": "kineo-cli"}], "testDependencies": []}

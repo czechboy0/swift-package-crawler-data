@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "ReSwift", "package.targets": [], "testDependencies": []}
+{"dependencies": [], "exclude": ["ReSwiftTests", "Carthage", "Docs"], "name": "ReSwift", "package.targets": [], "testDependencies": []}

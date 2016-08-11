@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/antonmes/spm-dynlink-c", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": [], "name": "dylink", "package.targets": [], "testDependencies": []}
