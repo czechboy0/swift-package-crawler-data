@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "CCurl", "package.providers": [{"Brew": "curl --with-openssl --with-nghttp2"}, {"Apt": "libcurl4-openssl-dev"}], "package.targets": [], "pkgConfig": "libcurl", "testDependencies": []}

@@ -1,1 +1,1 @@
-{"dependencies": [{"url": "https://github.com/open-swift/S4.git", "version": {"lowerBound": "0.9.0", "upperBound": "0.9.9223372036854775807"}}], "exclude": [], "name": "HTTPUpgradeAsync", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/open-swift/S4.git", "version": {"lowerBound": "0.12.0", "upperBound": "0.12.9223372036854775807"}}], "exclude": [], "name": "HTTPUpgradeAsync", "package.targets": [], "testDependencies": []}

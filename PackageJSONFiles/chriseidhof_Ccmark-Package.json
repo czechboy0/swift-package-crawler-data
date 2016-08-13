@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "Ccmark", "package.providers": [{"Brew": "commonmark"}], "package.targets": [], "pkgConfig": "libcmark", "testDependencies": []}

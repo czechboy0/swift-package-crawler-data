@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/QLwangqinghai/ServiceKit.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.0.9223372036854775807"}}], "exclude": [], "name": "Swift", "package.targets": [], "testDependencies": []}
