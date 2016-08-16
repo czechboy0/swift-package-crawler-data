@@ -10,6 +10,7 @@ let package = Package(
         Target(name: "unixclient", dependencies: [.Target(name: "Goose")]),
         Target(name: "threadtest", dependencies: [.Target(name: "Goose")]),
         Target(name: "unixserver", dependencies: [.Target(name: "Goose")]),
+        Target(name: "ostest", dependencies: [.Target(name: "Goose")]),
         Target(name: "retest", dependencies: [.Target(name: "Goose")])
     ],
     dependencies: [

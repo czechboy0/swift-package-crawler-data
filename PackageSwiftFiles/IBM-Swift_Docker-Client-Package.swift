@@ -12,4 +12,5 @@ let package = Package(
         .Package(url: "https://github.com/IBM-Swift/CCurl.git", majorVersion: 0, minor: 2),
         .Package(url: "https://github.com/IBM-Swift/CArchive.git", majorVersion: 0, minor: 1),
     ],
-    exclude: ["Makefile","DockerClient.xcodeproj"])
+    exclude: ["Makefile", "DockerClient.xcodeproj"]
+)

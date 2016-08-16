@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/antitypical/Result.git", "version": {"lowerBound": "3.0.0-alpha.2", "upperBound": "3.0.1"}}], "exclude": ["Sources/Deprecations+Removals.swift", "Sources/DynamicProperty.swift", "Sources/NSObject+KeyValueObserving.swift", "Sources/ObjectiveCBridging.swift"], "name": "ReactiveCocoa", "package.targets": [], "testDependencies": []}

@@ -17,10 +17,9 @@
 import PackageDescription
 
 let package = Package(
-    name: "Kitura",
+    name: "Kitura-CSRF",
         dependencies: [
-            .Package(url: "https://github.com/IBM-Swift/Kitura-net.git", majorVersion: 0, minor: 14),
-            .Package(url: "https://github.com/IBM-Swift/SwiftyJSON.git", majorVersion: 7),
-            .Package(url: "https://github.com/IBM-Swift/Kitura-TemplateEngine.git", majorVersion: 0, minor: 14)
+            .Package(url: "https://github.com/IBM-Swift/Kitura.git", majorVersion: 0, minor: 26),
+            .Package(url: "https://github.com/IBM-Swift/Kitura-Session.git", majorVersion: 0, minor: 26),
         ]
 )

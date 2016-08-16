@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "TaskExtension", "package.targets": [], "testDependencies": []}
+{"dependencies": [], "exclude": [], "name": "SynchronousTask", "package.targets": [], "testDependencies": []}
