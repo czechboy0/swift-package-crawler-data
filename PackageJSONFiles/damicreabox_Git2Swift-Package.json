@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/damicreabox/CLibgit2.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "Git2Swift", "package.targets": [], "testDependencies": []}

@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/brownleej/swift-openssl-mac", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}, {"url": "https://github.com/brownleej/tailor-time", "version": {"lowerBound": "3.0.0-alpha", "upperBound": "3.0.1"}}], "exclude": [], "name": "TailorHttp", "package.targets": [], "testDependencies": []}
