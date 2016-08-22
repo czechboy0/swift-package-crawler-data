@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/brownleej/tailor-http", "version": {"lowerBound": "3.0.0-alpha1", "upperBound": "3.0.1"}}], "exclude": [], "name": "TailorController", "package.targets": [], "testDependencies": []}

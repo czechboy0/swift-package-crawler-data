@@ -4,15 +4,7 @@ let package = Package(
     name: "Hello",
     dependencies: [
         .Package(url: "https://github.com/vapor/vapor.git", majorVersion: 0, minor: 16),
-        .Package(url: "https://github.com/vapor/vapor-mustache.git", majorVersion: 0, minor: 11)
-    ],
-    exclude: [
-        "Config",
-        "Database",
-        "Localization",
-        "Public",
-        "Resources",
-        "Tests",
+        .Package(url: "https://github.com/vapor/mysql-provider.git", majorVersion: 0, minor: 4)
     ]
 )
 

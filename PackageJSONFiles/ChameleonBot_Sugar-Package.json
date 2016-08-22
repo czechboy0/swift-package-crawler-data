@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/ChameleonBot/Bot.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": ["XcodeProject"], "name": "Sugar", "package.targets": [{"dependencies": [], "name": "Sugar"}], "testDependencies": []}

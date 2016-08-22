@@ -11,11 +11,10 @@ let package = Package(
         Target(name: "threadtest", dependencies: [.Target(name: "Goose")]),
         Target(name: "unixserver", dependencies: [.Target(name: "Goose")]),
         Target(name: "ostest", dependencies: [.Target(name: "Goose")]),
-        Target(name: "retest", dependencies: [.Target(name: "Goose")])
+        Target(name: "retest", dependencies: [.Target(name: "Goose")]),
+        Target(name: "timeexample", dependencies: [.Target(name: "Goose")])
     ],
     dependencies: [
-//        .Package(url: "https://github.com/alloyapple/CGooselib.git", majorVersion: 0)
-  //.Package(url: "https://git.oschina.net/GoldTeam/swiftwrappingc.git", majorVersion: 1, minor: 0)
-  //  .Package(url: "../swiftdev/swiftc/", majorVersion: 0, minor: 2)
+       .Package(url: "https://github.com/alloyapple/goosec.git", majorVersion: 0)
     ]
 )

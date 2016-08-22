@@ -17,9 +17,8 @@
 import PackageDescription
 
 let package = Package(
-    name: "tori-APNS",
+    name: "toriAPNS",
     dependencies: [
-        .Package(url: "https://github.com/boostcode/CCurl.git", majorVersion: 0, minor: 2),
-        .Package(url: "https://github.com/IBM-Swift/SwiftyJSON.git", majorVersion: 9, minor: 0)
+        .Package(url: "https://github.com/IBM-Swift/Kitura.git", majorVersion: 0, minor: 27)
     ]
 )
