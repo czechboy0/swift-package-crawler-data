@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "OpenSSL", "package.targets": [], "testDependencies": []}
+{"dependencies": [], "exclude": [], "name": "COpenSSL", "package.targets": [], "testDependencies": []}

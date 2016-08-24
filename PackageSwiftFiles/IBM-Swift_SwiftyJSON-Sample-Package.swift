@@ -19,7 +19,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftyJSON-Sample",
     dependencies: [
-        .Package(url: "https://github.com/IBM-Swift/SwiftyJSON.git", majorVersion: 8),
+        .Package(url: "https://github.com/IBM-Swift/SwiftyJSON.git", majorVersion: 11),
     ]
 )
 
