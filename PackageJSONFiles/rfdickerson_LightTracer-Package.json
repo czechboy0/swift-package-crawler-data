@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SwiftTracer", "package.targets": [{"dependencies": ["PathTracer"], "name": "SwiftTracer"}, {"dependencies": [], "name": "PathTracer"}], "testDependencies": []}

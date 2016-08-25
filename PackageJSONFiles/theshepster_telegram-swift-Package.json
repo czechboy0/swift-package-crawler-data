@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/theshepster/SwiftyJSON.git", "version": {"lowerBound": "11.0.0", "upperBound": "11.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "telegram-swift", "package.targets": [], "testDependencies": []}

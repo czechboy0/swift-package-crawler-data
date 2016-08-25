@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "COpenSSL", "package.providers": [{"Apt": "libssl"}], "package.targets": [], "pkgConfig": "openssl", "testDependencies": []}
