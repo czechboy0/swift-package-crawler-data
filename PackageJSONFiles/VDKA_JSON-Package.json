@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "JSON", "package.targets": [], "testDependencies": []}
+{"dependencies": [], "exclude": [], "name": "JSON", "package.targets": [{"dependencies": [], "name": "JSONCore"}, {"dependencies": ["JSONCore"], "name": "JSON"}], "testDependencies": []}
