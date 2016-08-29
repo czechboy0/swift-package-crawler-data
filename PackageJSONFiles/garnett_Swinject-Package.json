@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["Sources/SwinjectStoryboard", "Documentation", "script"], "name": "Swinject", "package.targets": [], "testDependencies": []}

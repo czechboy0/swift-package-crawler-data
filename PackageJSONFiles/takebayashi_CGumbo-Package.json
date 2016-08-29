@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "CGumbo", "package.providers": [{"Brew": "gumbo-parser"}], "package.targets": [], "pkgConfig": "gumbo", "testDependencies": []}

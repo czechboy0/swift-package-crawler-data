@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "SwiftySwift", "package.targets": [{"dependencies": ["Swiftcel", "SwiftSV"], "name": "SwiftySwift"}, {"dependencies": [], "name": "Swiftcel"}, {"dependencies": [], "name": "SwiftSV"}], "testDependencies": []}
+{"dependencies": [], "exclude": [], "name": "SwiftySwift", "package.targets": [{"dependencies": ["Swiftcel"], "name": "SwiftySwift"}, {"dependencies": [], "name": "Swiftcel"}], "testDependencies": []}

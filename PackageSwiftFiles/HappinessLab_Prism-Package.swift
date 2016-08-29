@@ -9,7 +9,7 @@ let package = Package(
     
     // Required libraries
     dependencies: [
-        .Package(url: "https://github.com/HappinessLab/Laser.git", majorVersion: 0, minor: 5),
+        .Package(url: "https://github.com/shotastage/SwiftLibC.git", majorVersion: 0, minor: 5),
         .Package(url: "https://github.com/Zewo/Router.git", majorVersion: 0, minor: 5)
     ],
     
