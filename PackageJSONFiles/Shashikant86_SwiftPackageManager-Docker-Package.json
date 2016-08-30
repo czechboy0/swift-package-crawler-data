@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "SwiftPM-Docker", "package.targets": [{"dependencies": ["SwiftPM_Docker"], "name": "cli"}], "testDependencies": []}

@@ -7,11 +7,6 @@ import PackageDescription
 
 let package = Package(
     name: "DynamicConnectivity",
-    dependencies: [
-        .Package(url: "https://github.com/papierschiff/swift-concatenable-queue-protocol.git", majorVersion: 0),
-        .Package(url: "https://github.com/papierschiff/swift-search-tree.git", majorVersion: 0),
-        .Package(url: "https://github.com/papierschiff/swift-euler-tour-tree.git", majorVersion: 0)
-    ],
     targets: [
         Target(
             name: "DynamicConnectivity",
@@ -21,5 +16,10 @@ let package = Package(
             dependencies: [.Target(name: "DynamicConnectivityProtocol")]),
         Target(
             name: "DynamicConnectivityProtocol")
+    ],
+    dependencies: [
+        .Package(url: "https://github.com/papierschiff/swift-concatenable-queue-protocol.git", majorVersion: 0, minor: 1),
+        //.Package(url: "https://github.com/papierschiff/swift-search-tree.git", majorVersion: 0, minor: 1),
+        .Package(url: "https://github.com/papierschiff/swift-euler-tour-tree.git", majorVersion: 0, minor: 1),
     ]
 )

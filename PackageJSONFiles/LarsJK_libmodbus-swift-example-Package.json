@@ -1,0 +1,1 @@
+{"dependencies": [{"url": "https://github.com/LarsJK/libmodbus-swift.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "example", "package.targets": [], "testDependencies": []}

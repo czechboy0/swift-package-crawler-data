@@ -19,30 +19,17 @@
 
 import PackageDescription
 
+var urls = [String]()
+
 #if os(Linux)
-let package = Package(
-	name: "PerfectLib",
-	targets: [
-		Target(name: "PerfectLib", dependencies: [
-										.Target(name: "OpenSSL"),
-										.Target(name: "cURL"),
-										.Target(name: "LinuxBridge")]),
-		Target(name: "OpenSSL"),
-		Target(name: "cURL"),
-		Target(name: "LinuxBridge")
-		],
-	exclude: ["Sources/PerfectLibTests"]
-)
+urls += ["https://github.com/PerfectlySoft/Perfect-LinuxBridge.git"]
 #else
+
+#endif
+
 let package = Package(
 	name: "PerfectLib",
-	targets: [
-		Target(name: "PerfectLib", dependencies: [
-										.Target(name: "OpenSSL"),
-										.Target(name: "cURL")]),
-		Target(name: "OpenSSL"),
-		Target(name: "cURL")
-		],
-	exclude: ["Sources/LinuxBridge", "Sources/PerfectLibTests"]
+	targets: [],
+	dependencies: urls.map { .Package(url: $0, versions: Version(0,0,0)..<Version(10,0,0)) },
+	exclude: []
 )
-#endif
