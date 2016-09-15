@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "CryptoSwift", "package.targets": [], "testDependencies": []}
+{"dependencies": [], "exclude": ["Tests/CryptoSwiftTests/CommonCryptoTests.swift"], "name": "CryptoSwift", "package.targets": [], "testDependencies": []}

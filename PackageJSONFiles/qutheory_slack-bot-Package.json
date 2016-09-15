@@ -1,1 +1,1 @@
-{"dependencies": [{"url": "https://github.com/vapor/tls-provider", "version": {"lowerBound": "0.4.0", "upperBound": "0.4.9223372036854775807"}}], "exclude": ["Images"], "name": "SlackBot", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/vapor/vapor.git", "version": {"lowerBound": "0.18.0", "upperBound": "0.18.9223372036854775807"}}], "exclude": ["Images"], "name": "SlackBot", "package.targets": [], "testDependencies": []}

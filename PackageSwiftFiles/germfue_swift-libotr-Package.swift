@@ -18,9 +18,11 @@
 import PackageDescription
 
 let package = Package(
+    name: "LibOtr",
     dependencies: [
-        .Package(url: "/home/user/Projects/germfue/swift-cbridge", Version(0,6,0)),
-        .Package(url: "https://github.com/germfue/Clibotr.git", Version(0,1,1)),
-        .Package(url: "https://github.com/germfue/swift-semver.git", Version(0,1,0))
+        .Package(url: "https://github.com/germfue/swift-cbridge.git", Version(0,8,0)),
+        .Package(url: "https://github.com/germfue/Clibotr.git", Version(0,1,3)),
+        .Package(url: "https://github.com/germfue/swift-semver.git", Version(0,2,0))
     ]
 )
+

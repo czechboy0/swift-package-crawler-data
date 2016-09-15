@@ -1,1 +1,1 @@
-{"dependencies": [{"url": "https://github.com/glessard/shuffle.git", "version": {"lowerBound": "1.1.0", "upperBound": "2.0.0"}}], "exclude": [], "name": "deferred", "package.targets": [], "testDependencies": []}
+{"dependencies": [{"url": "https://github.com/glessard/shuffle.git", "version": {"lowerBound": "2.0.0", "upperBound": "2.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "deferred", "package.targets": [], "testDependencies": []}

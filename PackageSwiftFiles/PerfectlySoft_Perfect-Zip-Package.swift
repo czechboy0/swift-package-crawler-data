@@ -19,14 +19,11 @@
 
 import PackageDescription
 
-let versions = Version(0,0,0)..<Version(10,0,0)
-let urls = [
-	"https://github.com/PerfectlySoft/Perfect.git",
-	"https://github.com/iamjono/minizip.git",
-]
-
 let package = Package(
 	name: "PerfectZip",
 	targets: [],
-	dependencies: urls.map { .Package(url: $0, versions: versions) }
+	dependencies: [
+		.Package(url: "https://github.com/iamjono/minizip.git", versions: Version(0,0,0)..<Version(10,0,0)),
+		.Package(url: "https://github.com/PerfectlySoft/PerfectLib.git", majorVersion: 2, minor: 0)
+	]
 )

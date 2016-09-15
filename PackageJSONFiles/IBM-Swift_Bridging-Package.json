@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "Bridging", "package.targets": [{"dependencies": [], "name": "Bridging"}], "testDependencies": [{"url": "https://github.com/IBM-Swift/Kitura-TestFramework.git", "version": {"lowerBound": "0.2.0", "upperBound": "0.3.0"}}]}
+{"dependencies": [], "exclude": [], "name": "Bridging", "package.targets": [], "testDependencies": []}

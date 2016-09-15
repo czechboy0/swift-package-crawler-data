@@ -10,7 +10,9 @@ let package = Package(
             "TypeSafeRouting",
             "Auth",
             "Cache",
-            "Cookies"
+            "Cookies",
+            "Sessions",
+            "Settings"
         ]),
 
         // Routing
@@ -19,40 +21,44 @@ let package = Package(
 
         // Type Safe
         Target(name: "TypeSafeRouting", dependencies: ["Routing", "HTTPRouting"]),
-        Target(name: "TypeSafeGenerator"),
+        // Target(name: "TypeSafeGenerator"),
 
         // Misc
-        Target(name: "Auth"),
+        Target(name: "Auth", dependencies: ["Cookies", "Cache"]),
         Target(name: "Cache"),
         Target(name: "Cookies"),
+        Target(name: "Sessions", dependencies: ["Cookies"]),
+        Target(name: "Settings"),
 
         // Development and Testing
-        Target(name: "Development", dependencies: ["Vapor"]),
-        Target(name: "Performance", dependencies: ["Vapor"]),
+        // Target(name: "Development", dependencies: ["Vapor"]),
+        // Target(name: "Performance", dependencies: ["Vapor"]),
     ],
     dependencies: [
         // SHA2 + HMAC hashing. Used by the core to create session identifiers.
-        .Package(url: "https://github.com/vapor/crypto.git", majorVersion: 0, minor: 2),
+        .Package(url: "https://github.com/vapor/crypto.git", majorVersion: 1),
 
         // ORM for interacting with databases
-        .Package(url: "https://github.com/vapor/fluent.git", majorVersion: 0, minor: 10),
+        .Package(url: "https://github.com/vapor/fluent.git", majorVersion: 1),
 
         // Core vapor transport layer
-        .Package(url: "https://github.com/vapor/engine.git", majorVersion: 0, minor: 6),
+        .Package(url: "https://github.com/vapor/engine.git", majorVersion: 1),
 
         // Console protocol and implementation for powering command line interface.
-        .Package(url: "https://github.com/vapor/console.git", majorVersion: 0, minor: 6),
+        .Package(url: "https://github.com/vapor/console.git", majorVersion: 1),
 
         // JSON enum wrapper around Foundation JSON
-        .Package(url: "https://github.com/vapor/json.git", majorVersion: 0, minor: 5),
+        .Package(url: "https://github.com/vapor/json.git", majorVersion: 1),
 
         // A security framework for Swift.
-        // .Package(url: "https://github.com/stormpath/Turnstile.git", majorVersion: 0, minor: 1),
+        .Package(url: "https://github.com/stormpath/Turnstile.git", majorVersion: 1),
 
-		// An extensible templating language built for Vapor. 🍃
-		.Package(url: "https://github.com/vapor/leaf.git", majorVersion: 0, minor: 1)
+        // An extensible templating language built for Vapor. 🍃
+        .Package(url: "https://github.com/vapor/leaf.git", majorVersion: 1),
     ],
     exclude: [
-        // No excludes currently
+        "Sources/Development",
+        "Sources/Performance",
+        "Sources/TypeSafeGenerator"
     ]
 )

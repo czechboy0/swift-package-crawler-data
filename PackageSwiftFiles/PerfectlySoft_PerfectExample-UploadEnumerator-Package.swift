@@ -1,6 +1,6 @@
 //
 //  Package.swift
-//  PerfectExamples
+//  PerfectExample-UploadEnumerator
 //
 //  Created by Kyle Jessup on 3/22/16.
 //	Copyright (C) 2016 PerfectlySoft, Inc.
@@ -25,7 +25,7 @@ let package = Package(
 		
 	],
 	dependencies: [
-		.Package(url:"https://github.com/PerfectlySoft/Perfect-HTTPServer.git", versions: Version(0,0,0)..<Version(10,0,0)),
-		.Package(url:"https://github.com/PerfectlySoft/Perfect-Mustache.git", versions: Version(0,0,0)..<Version(10,0,0))
+		.Package(url:"https://github.com/PerfectlySoft/Perfect-HTTPServer.git", majorVersion: 2, minor: 0),
+		.Package(url:"https://github.com/PerfectlySoft/Perfect-Mustache.git", majorVersion: 2, minor: 0)
 	]
 )

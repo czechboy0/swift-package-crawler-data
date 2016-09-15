@@ -14,3 +14,17 @@ let package = Package(
 		.Package(url: "https://github.com/DavidSkrundz/Util.git", versions: Version(0,1,0)..<Version(0,2,0)),
 	]
 )
+
+let staticLibrary = Product(
+	name: "UUID",
+	type: .Library(.Static),
+	modules: ["UUID"]
+)
+let dynamicLibrary = Product(
+	name: "UUID",
+	type: .Library(.Dynamic),
+	modules: ["UUID"]
+)
+
+products.append(staticLibrary)
+products.append(dynamicLibrary)

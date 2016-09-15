@@ -1,9 +1,9 @@
 import PackageDescription
 
-let package = Package(
+let package = Package(name: "AdventOfCode",
     targets: [
         Target(
-            name: "01-Floors",
+            name: "Day01Floors",
             dependencies: [.Target(name: "AdventLib")]),
         Target(
             name: "02-Presents",
@@ -48,7 +48,10 @@ let package = Package(
             name: "18-GIF",
             dependencies: [.Target(name: "AdventLib")]),
         Target(
-            name: "19-Molecules",
+            name: "Day19Molecules",
+            dependencies: [.Target(name: "AdventLib")]),
+        Target(
+            name: "Day20Elves",
             dependencies: [.Target(name: "AdventLib")]),
         Target(
             name: "AdventLib")

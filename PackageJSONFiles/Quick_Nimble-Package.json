@@ -1,1 +1,1 @@
-{"dependencies": [], "exclude": [], "name": "Nimble", "package.targets": [], "testDependencies": []}
+{"dependencies": [], "exclude": ["Sources/NimbleObjectiveC", "Tests/NimbleTests/objc"], "name": "Nimble", "package.targets": [], "testDependencies": []}

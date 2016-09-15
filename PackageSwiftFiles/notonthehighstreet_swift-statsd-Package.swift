@@ -5,5 +5,8 @@ let package = Package(
 	targets: [
 		Target(
     	name: "StatsD")
-  ]
+  ],
+	dependencies: [
+      .Package(url: "https://github.com/IBM-Swift/BlueSocket.git", majorVersion: 0, minor: 10)
+	]
 )

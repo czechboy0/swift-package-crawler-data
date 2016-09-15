@@ -3,8 +3,7 @@ import PackageDescription
 let package = Package(
     name: "Goose",
     targets: [
-        Target(name: "Goose"),
-        Target(name: "UnitTests", dependencies: [.Target(name: "Goose")]),
+        Target(name: "Goose", dependencies: ["CGooseLib"]),
         Target(name: "SockTestClient", dependencies: [.Target(name: "Goose")]),
         Target(name: "SockTestServer", dependencies: [.Target(name: "Goose")]),
         Target(name: "unixclient", dependencies: [.Target(name: "Goose")]),
@@ -15,6 +14,6 @@ let package = Package(
         Target(name: "timeexample", dependencies: [.Target(name: "Goose")])
     ],
     dependencies: [
-       .Package(url: "https://github.com/alloyapple/goosec.git", majorVersion: 0)
+       //.Package(url: "https://github.com/alloyapple/goosec.git", majorVersion: 0)
     ]
 )

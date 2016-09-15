@@ -2,23 +2,25 @@ import PackageDescription
 
 var package = Package(
     name: "MongoKitten",
+    targets: [
+        Target(name: "MongoKitten", dependencies: [
+            "MongoMD5",
+            "MongoSCRAM",
+            "MongoSHA1"
+            ]),
+        Target(name: "MongoMD5", dependencies: ["MongoCryptoEssentials"]),
+        Target(name: "MongoSCRAM", dependencies: ["MongoPBKDF2"]),
+        Target(name: "MongoPBKDF2", dependencies: ["MongoHMAC"]),
+        Target(name: "MongoHMAC", dependencies: ["MongoCryptoEssentials"]),
+        Target(name: "MongoSHA1", dependencies: ["MongoCryptoEssentials"]),
+        Target(name: "MongoCryptoEssentials")
+        ],
     dependencies: [
-        // For MongoCR authentication
-        .Package(url: "https://github.com/CryptoKitten/MD5.git", majorVersion: 0, minor: 10),
-        
-        // For SCRAM-SHA-1 authentication
-        .Package(url: "https://github.com/CryptoKitten/SCRAM.git", majorVersion: 0, minor: 10),
-        .Package(url: "https://github.com/CryptoKitten/SHA1.git", majorVersion: 0, minor: 10),
-        
         // For MongoDB Documents
-        .Package(url: "https://github.com/OpenKitten/BSON.git", majorVersion: 3, minor: 5),
+        .Package(url: "https://github.com/OpenKitten/BSON.git", majorVersion: 3, minor: 7),
         
         // Provides sockets
-        .Package(url: "https://github.com/czechboy0/Socks.git", majorVersion: 0, minor: 10),
-
-        // Background queue
-        .Package(url: "https://github.com/ketzusaka/Strand.git", majorVersion: 1, minor: 6),
-
+        .Package(url: "https://github.com/vapor/socks.git", majorVersion: 0, minor: 12),
         ]
 )
 
