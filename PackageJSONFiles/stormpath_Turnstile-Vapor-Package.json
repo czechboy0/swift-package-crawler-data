@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/stormpath/Turnstile.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}, {"url": "https://github.com/vapor/vapor.git", "version": {"lowerBound": "0.16.0", "upperBound": "0.16.9223372036854775807"}}], "exclude": [], "name": "VaporTurnstile", "package.targets": [], "testDependencies": []}

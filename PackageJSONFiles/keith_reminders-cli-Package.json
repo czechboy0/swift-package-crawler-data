@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/kylef/Commander", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "reminders", "package.targets": [], "testDependencies": []}

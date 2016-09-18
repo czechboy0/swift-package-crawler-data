@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "Apodimark", "package.targets": [{"dependencies": [], "name": "Apodimark"}, {"dependencies": ["Apodimark"], "name": "ApodimarkOutput"}], "testDependencies": []}

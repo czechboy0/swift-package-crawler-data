@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/DavidSkrundz/Regex.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.1.0"}}], "exclude": [], "name": "MockGen", "package.targets": [], "testDependencies": []}

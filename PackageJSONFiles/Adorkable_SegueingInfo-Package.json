@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["Examples", "Tests", "Carthage", "Cocoapods"], "name": "SegueingInfo", "package.targets": [{"dependencies": [], "name": "SegueingInfo"}], "testDependencies": []}

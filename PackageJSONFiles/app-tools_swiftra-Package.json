@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/takebayashi/http4swift.git", "version": {"lowerBound": "0.0.4", "upperBound": "0.0.5"}}], "exclude": [], "name": "swiftra", "package.targets": [], "testDependencies": []}

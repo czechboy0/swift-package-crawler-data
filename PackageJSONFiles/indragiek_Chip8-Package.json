@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["Chip8"], "name": "Chip8", "package.targets": [{"dependencies": [], "name": "Chip8Kit"}], "testDependencies": []}

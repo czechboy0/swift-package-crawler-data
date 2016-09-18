@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "ValidationNEL", "package.targets": [{"dependencies": [], "name": "ValidationNEL-iOS"}, {"dependencies": [], "name": "ValidationNEL-macOS"}, {"dependencies": [], "name": "ValidationNEL-tvOS"}], "testDependencies": []}

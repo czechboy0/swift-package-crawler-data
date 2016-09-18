@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/hpux735/OSULogger.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": [], "name": "OSUNetwork", "package.targets": [], "testDependencies": []}

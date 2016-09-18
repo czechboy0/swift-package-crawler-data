@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/noppoMan/Slimane.git", "version": {"lowerBound": "0.4.0", "upperBound": "0.4.9223372036854775807"}}], "exclude": [], "name": "slimane-example-bbs", "package.targets": [], "testDependencies": []}

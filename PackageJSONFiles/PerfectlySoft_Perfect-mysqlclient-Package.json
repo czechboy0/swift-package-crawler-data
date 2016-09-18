@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "mysqlclient", "package.providers": [{"Brew": "mysql"}, {"Apt": "mysql"}], "package.targets": [], "pkgConfig": "mysqlclient", "testDependencies": []}

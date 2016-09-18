@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "CLibSodium", "package.providers": [{"Brew": "libsodium"}], "package.targets": [], "pkgConfig": "libsodium", "testDependencies": []}

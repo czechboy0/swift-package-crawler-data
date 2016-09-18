@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["BlueSocket.xcodeproj", "BlueSocket.xcworkspace", "README.md", "Sources/Info.plist", "Tests"], "name": "BlueSocket", "package.targets": [{"dependencies": [], "name": "BlueSocket"}], "testDependencies": []}

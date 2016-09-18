@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/qutheory/vapor.git", "version": {"lowerBound": "0.4.0", "upperBound": "0.4.1"}}], "exclude": [], "name": "BotBot", "package.targets": [], "testDependencies": []}

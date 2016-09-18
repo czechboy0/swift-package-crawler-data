@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/bppr/Speck.git", "version": {"lowerBound": "0.0.2", "upperBound": "0.0.3"}}], "exclude": [], "package.targets": [{"dependencies": [], "name": "Core"}, {"dependencies": ["Core"], "name": "Main"}, {"dependencies": ["Core"], "name": "Specs"}], "testDependencies": []}

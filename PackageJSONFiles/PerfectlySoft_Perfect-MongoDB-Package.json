@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/PerfectlySoft/Perfect-mongo-c.git", "version": {"lowerBound": "2.0.0", "upperBound": "2.0.9223372036854775807"}}], "exclude": ["Sources/libmongoc"], "name": "MongoDB", "package.targets": [], "testDependencies": []}

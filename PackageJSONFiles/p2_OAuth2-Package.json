@@ -1,0 +1,1 @@
+{"dependencies": [], "exclude": [], "name": "OAuth2", "package.targets": [{"dependencies": [], "name": "SwiftKeychain"}, {"dependencies": ["SwiftKeychain"], "name": "Base"}, {"dependencies": ["Base"], "name": "macOS"}, {"dependencies": ["macOS"], "name": "Flows"}, {"dependencies": ["Flows"], "name": "DataLoader"}], "testDependencies": []}

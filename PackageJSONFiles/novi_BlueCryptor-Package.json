@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/IBM-Swift/CommonCrypto.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": ["Cryptor.xcodeproj", "README.md", "Sources/Info.plist"], "name": "Cryptor", "package.targets": [{"dependencies": [], "name": "Cryptor"}], "testDependencies": []}

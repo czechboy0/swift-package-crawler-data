@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/CryptoKitten/CryptoEssentials.git", "version": {"lowerBound": "0.13.0", "upperBound": "0.13.9223372036854775807"}}], "exclude": [], "name": "SHA2", "package.targets": [], "testDependencies": []}

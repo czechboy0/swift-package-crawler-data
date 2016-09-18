@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "Turnstile", "package.targets": [{"dependencies": ["Turnstile"], "name": "TurnstileTests"}], "testDependencies": []}

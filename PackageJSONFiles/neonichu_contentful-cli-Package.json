@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/contentful/contentful.swift", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": [], "name": "contentful-cli", "package.targets": [], "testDependencies": []}

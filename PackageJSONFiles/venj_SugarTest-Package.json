@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/venj/Sugar.git", "version": {"lowerBound": "0.0.1", "upperBound": "1.0.0"}}], "exclude": [], "name": "SugarTest", "package.targets": [], "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "CArchive", "package.providers": [{"Brew": "libarchive"}, {"Apt": "libarchive-dev"}], "package.targets": [], "pkgConfig": "libarchive", "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "git@github.com:chriseidhof/Ccmark.git", "version": {"lowerBound": "0.24.1", "upperBound": "0.24.2"}}], "exclude": [], "name": "CommonMark", "package.targets": [], "testDependencies": []}

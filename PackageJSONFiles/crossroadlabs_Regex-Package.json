@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/crossroadlabs/Boilerplate.git", "version": {"lowerBound": "1.0.0-alpha.1", "upperBound": "1.0.1"}}], "exclude": ["Carthage"], "name": "Regex", "package.targets": [{"dependencies": [], "name": "Regex"}], "testDependencies": []}

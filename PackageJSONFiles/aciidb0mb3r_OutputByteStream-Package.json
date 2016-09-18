@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "OutputByteStream", "package.targets": [{"dependencies": ["POSIX"], "name": "Basic"}, {"dependencies": ["libc"], "name": "POSIX"}], "testDependencies": []}

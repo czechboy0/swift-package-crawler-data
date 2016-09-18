@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["ObjectMapper.podspec", "ObjectMapper.xcodeproj", "ObjectMapper.xcworkspace", "ObjectMapperTests"], "name": "ObjectMapper", "package.targets": [{"dependencies": [], "name": "ObjectMapper/Core"}, {"dependencies": [], "name": "ObjectMapper/Transforms"}], "testDependencies": []}

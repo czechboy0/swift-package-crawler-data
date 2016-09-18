@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "libmongoc", "package.providers": [{"Brew": "mongo-c"}, {"Apt": "libmongoc"}], "package.targets": [], "pkgConfig": "libmongoc-1.0", "testDependencies": []}

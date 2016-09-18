@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["Graphics", "JsonSwiftson-macOS", "JsonSwiftson-tvOS", "JsonSwiftson-watchOS", "JsonSwiftson.xcodeproj", "JsonSwiftsonAppDemo", "JsonSwiftsonLogicTests", "JsonSwiftsonTests"], "name": "JsonSwiftson", "package.targets": [], "testDependencies": []}

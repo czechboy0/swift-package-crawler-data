@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/seanchas116/SwiftQML.git", "version": {"lowerBound": "0.0.2", "upperBound": "0.0.3"}}], "exclude": [], "package.targets": [], "testDependencies": []}

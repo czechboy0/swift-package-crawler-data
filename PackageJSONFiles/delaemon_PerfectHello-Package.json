@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/PerfectlySoft/Perfect.git", "version": {"lowerBound": "0.0.0", "upperBound": "10.0.0"}}, {"url": "https://github.com/SwiftyJSON/SwiftyJSON.git", "version": {"lowerBound": "2.3.0", "upperBound": "2.3.3"}}], "exclude": ["webroot"], "name": "PerfectHello", "package.targets": [], "testDependencies": []}

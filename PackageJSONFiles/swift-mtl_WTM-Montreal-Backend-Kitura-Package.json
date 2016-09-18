@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/IBM-Swift/Kitura-router.git", "version": {"lowerBound": "0.3.0", "upperBound": "0.4.0"}}, {"url": "https://github.com/IBM-Swift/HeliumLogger.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.1.0"}}], "exclude": [], "name": "wtmapp", "package.targets": [], "testDependencies": []}

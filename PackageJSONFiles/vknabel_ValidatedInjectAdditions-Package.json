@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/vknabel/EasyInject.git", "version": {"lowerBound": "0.6.0", "upperBound": "0.7.0"}}, {"url": "https://github.com/vknabel/ValidatedExtension.git", "version": {"lowerBound": "3.0.0", "upperBound": "4.0.0"}}], "exclude": [], "name": "ValidatedInjectAdditions", "package.targets": [], "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/jstjohn/swift-c-htslib.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "HTSLibExample", "package.targets": [], "testDependencies": []}

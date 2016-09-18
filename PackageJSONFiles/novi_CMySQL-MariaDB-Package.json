@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "CMySQL", "package.providers": [{"Brew": "mariadb"}, {"Apt": "libmariadbclient-dev"}], "package.targets": [], "pkgConfig": "mariadb", "testDependencies": []}

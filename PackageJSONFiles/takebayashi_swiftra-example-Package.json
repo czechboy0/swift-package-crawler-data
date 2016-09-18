@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/takebayashi/swiftra.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": [], "name": "swiftra-example", "package.targets": [], "testDependencies": []}

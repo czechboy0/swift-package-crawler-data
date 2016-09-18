@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/Zewo/HTTP.git", "version": {"lowerBound": "0.7.0", "upperBound": "0.7.9223372036854775807"}}], "exclude": [], "name": "PathParameterMiddleware", "package.targets": [], "testDependencies": []}

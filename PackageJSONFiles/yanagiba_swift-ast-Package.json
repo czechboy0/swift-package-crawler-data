@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["Integrations", "Spectre"], "name": "swift-ast", "package.targets": [{"dependencies": [], "name": "source"}, {"dependencies": ["util", "source"], "name": "ast"}, {"dependencies": ["util", "source", "ast"], "name": "parser"}, {"dependencies": ["source", "parser", "util"], "name": "swift-ast"}], "testDependencies": []}

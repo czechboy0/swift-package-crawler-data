@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/open-swift/S4.git", "version": {"lowerBound": "0.12.0", "upperBound": "0.12.9223372036854775807"}}, {"url": "https://github.com/slimane-swift/URI.git", "version": {"lowerBound": "0.12.0", "upperBound": "0.12.9223372036854775807"}}], "exclude": [], "name": "HTTPSerializer", "package.targets": [], "testDependencies": []}

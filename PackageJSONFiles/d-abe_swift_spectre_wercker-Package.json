@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "swift_spectre_wercker", "package.targets": [], "testDependencies": [{"url": "https://github.com/kylef/spectre-build.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}]}

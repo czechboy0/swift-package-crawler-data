@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "PathTracer", "package.targets": [{"dependencies": [], "name": "stbi"}, {"dependencies": ["stbi"], "name": "pathtracer"}, {"dependencies": ["pathtracer"], "name": "renderer"}], "testDependencies": []}

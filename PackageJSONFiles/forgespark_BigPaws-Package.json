@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/forgespark/SwiftXCB.git", "version": {"lowerBound": "0.0.1", "upperBound": "0.0.2"}}], "exclude": [], "name": "BigPaws", "package.targets": [], "testDependencies": []}

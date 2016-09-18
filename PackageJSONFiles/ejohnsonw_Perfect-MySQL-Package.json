@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["MySQLTests"], "name": "MySQL", "package.targets": [{"dependencies": ["mysqlclient"], "name": "MySQL"}, {"dependencies": [], "name": "mysqlclient"}, {"dependencies": ["MySQL"], "name": "MySQLTests"}], "testDependencies": []}

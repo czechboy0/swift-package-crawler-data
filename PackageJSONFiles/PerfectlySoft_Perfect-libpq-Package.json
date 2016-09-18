@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "libpq", "package.providers": [{"Brew": "postgres"}, {"Apt": "pq"}], "package.targets": [], "pkgConfig": "libpq", "testDependencies": []}

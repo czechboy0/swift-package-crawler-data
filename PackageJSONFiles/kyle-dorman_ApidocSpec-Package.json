@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/kyle-dorman/ApidocJsonHelpers.git", "version": {"lowerBound": "0.1.2", "upperBound": "0.1.3"}}], "exclude": [], "name": "ApidocSpec", "package.targets": [], "testDependencies": []}

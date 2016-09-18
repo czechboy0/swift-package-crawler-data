@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/mpclarkson/printr.git", "version": {"lowerBound": "0.0.0", "upperBound": "1.0.0"}}], "exclude": [], "name": "vapor", "package.targets": [], "testDependencies": []}

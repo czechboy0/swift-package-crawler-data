@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["scripts"], "name": "FounDarwin", "package.targets": [{"dependencies": ["Directory", "File", "PackageBuild"], "name": "FounDarwin"}, {"dependencies": [], "name": "Directory"}, {"dependencies": [], "name": "File"}, {"dependencies": ["Directory"], "name": "PackageBuild"}], "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "Fluent", "package.targets": [{"dependencies": ["libc"], "name": "Fluent"}, {"dependencies": ["Fluent"], "name": "FluentDev"}], "testDependencies": []}

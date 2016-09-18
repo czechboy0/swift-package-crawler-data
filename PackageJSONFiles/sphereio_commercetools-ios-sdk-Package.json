@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/Alamofire/Alamofire.git", "version": {"lowerBound": "3.0.0", "upperBound": "3.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "Commercetools", "package.targets": [], "testDependencies": []}

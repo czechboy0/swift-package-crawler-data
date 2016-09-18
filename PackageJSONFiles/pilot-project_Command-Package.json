@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["*.xcodeproj", "main.swift", "Sources/main.swift"], "name": "Command", "package.targets": [], "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/Zewo/SQL.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "MySQL", "package.targets": [], "testDependencies": []}

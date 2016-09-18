@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "Surl", "package.providers": [{"Brew": "curl --with-openssl"}, {"Apt": "libcurl4-openssl-dev"}], "package.targets": [], "pkgConfig": "libcurl", "testDependencies": []}

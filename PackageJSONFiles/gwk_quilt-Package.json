@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "Quilt", "package.targets": [{"dependencies": [], "name": "Quilt"}, {"dependencies": ["Quilt"], "name": "test-Parser"}], "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/postmates/PMJSON.git", "version": {"lowerBound": "0.9.0", "upperBound": "0.9.9223372036854775807"}}], "exclude": [], "name": "OSULogger", "package.targets": [], "testDependencies": []}

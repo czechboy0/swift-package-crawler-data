@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/Alamofire/Alamofire.git", "version": {"lowerBound": "4.0.0", "upperBound": "5.0.0"}}], "exclude": [], "name": "AlamofireImage", "package.targets": [], "testDependencies": []}

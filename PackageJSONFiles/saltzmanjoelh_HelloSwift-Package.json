@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/saltzmanjoelh/Hello.git", "version": {"lowerBound": "0.0.0", "upperBound": "10.0.0"}}], "exclude": [], "name": "HelloSwift", "package.targets": [], "testDependencies": []}

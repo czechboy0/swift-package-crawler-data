@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "Swerve", "package.targets": [{"dependencies": [], "name": "Data"}, {"dependencies": ["Data"], "name": "HTTP"}, {"dependencies": ["Data", "HTTP"], "name": "Response"}, {"dependencies": ["Response"], "name": "Resource"}, {"dependencies": ["Resource"], "name": "Swerve"}], "testDependencies": []}

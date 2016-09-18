@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["Sources/gibberish"], "name": "SR688Example", "package.targets": [{"dependencies": ["bottom"], "name": "top"}, {"dependencies": [], "name": "bottom"}], "testDependencies": []}

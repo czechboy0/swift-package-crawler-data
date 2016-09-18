@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/aciidb0mb3r/SimpleGetClient.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "GetClientUser", "package.targets": [], "testDependencies": []}

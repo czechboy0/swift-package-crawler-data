@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/SwiftStudies/Duration.git", "version": {"lowerBound": "1.0.2", "upperBound": "2.0.0"}}], "exclude": [], "name": "SmarkDown", "package.targets": [{"dependencies": ["SmarkDown"], "name": "markdown"}, {"dependencies": [], "name": "SmarkDown"}], "testDependencies": []}

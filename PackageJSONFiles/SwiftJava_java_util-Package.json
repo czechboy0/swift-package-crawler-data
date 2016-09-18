@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/SwiftJava/java_lang.git", "version": {"lowerBound": "1.0.0", "upperBound": "2.0.0"}}], "exclude": [], "name": "java_util", "package.targets": [], "testDependencies": []}

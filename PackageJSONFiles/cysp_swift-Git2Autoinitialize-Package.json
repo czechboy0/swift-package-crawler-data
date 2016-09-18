@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/cysp/swift-CGit2.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.1"}}], "exclude": [], "name": "Git2Autoinitialize", "package.targets": [], "testDependencies": []}

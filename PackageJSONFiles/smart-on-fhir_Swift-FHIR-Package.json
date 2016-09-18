@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "SwiftFHIR", "package.targets": [{"dependencies": [], "name": "Models"}, {"dependencies": ["Models"], "name": "Client"}], "testDependencies": []}

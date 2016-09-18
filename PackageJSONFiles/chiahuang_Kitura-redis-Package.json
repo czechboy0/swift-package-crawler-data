@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/IBM-Swift/Kitura-sys.git", "version": {"lowerBound": "0.17.0", "upperBound": "0.17.9223372036854775807"}}, {"url": "https://github.com/IBM-Swift/BlueSocket.git", "version": {"lowerBound": "0.5.0", "upperBound": "0.5.9223372036854775807"}}], "exclude": [], "name": "SwiftRedis", "package.targets": [], "testDependencies": []}

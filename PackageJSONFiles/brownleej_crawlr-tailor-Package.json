@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/brownleej/tailor", "version": {"lowerBound": "3.0.0-alpha", "upperBound": "3.0.1"}}], "exclude": [], "package.targets": [{"dependencies": [], "name": "Crawlr"}, {"dependencies": ["Crawlr"], "name": "CrawlrApp"}, {"dependencies": ["Crawlr"], "name": "CrawlrTests"}], "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/fengluo/CHiredis-OSX.git", "version": {"lowerBound": "0.2.0", "upperBound": "0.2.9223372036854775807"}}], "exclude": [], "package.targets": [], "testDependencies": []}

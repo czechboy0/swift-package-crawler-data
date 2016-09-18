@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/everwanna/event.git", "version": {"lowerBound": "2.0.1", "upperBound": "2.0.2"}}], "exclude": [], "name": "Sevent", "package.targets": [], "testDependencies": []}

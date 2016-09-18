@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/ChameleonBot/Common.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": ["XcodeProject"], "name": "Models", "package.targets": [{"dependencies": [], "name": "Models"}], "testDependencies": []}

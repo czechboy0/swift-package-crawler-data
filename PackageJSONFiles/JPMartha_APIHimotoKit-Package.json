@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/JPMartha/APIKit.git", "version": {"lowerBound": "2.0.0", "upperBound": "2.0.1"}}, {"url": "https://github.com/JPMartha/Himotoki.git", "version": {"lowerBound": "2.0.0", "upperBound": "2.0.1"}}], "exclude": ["Documentation"], "name": "APIHimotoKit", "package.targets": [], "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/nakazy/vapor.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "SwiftServerVapor", "package.targets": [], "testDependencies": []}

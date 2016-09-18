@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "libpq", "package.providers": [{"Apt": "libpq-dev"}], "package.targets": [], "pkgConfig": "libpq", "testDependencies": []}

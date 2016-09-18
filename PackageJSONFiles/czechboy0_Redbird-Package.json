@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/vapor/socks.git", "version": {"lowerBound": "0.12.0", "upperBound": "0.12.9223372036854775807"}}], "exclude": ["Sources/RedbirdExample"], "name": "Redbird", "package.targets": [{"dependencies": [], "name": "Redbird"}], "testDependencies": []}

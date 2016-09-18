@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/PerfectlySoft/Perfect-libpq.git", "version": {"lowerBound": "2.0.0", "upperBound": "2.0.9223372036854775807"}}], "exclude": [], "name": "PostgreSQL", "package.targets": [], "testDependencies": []}

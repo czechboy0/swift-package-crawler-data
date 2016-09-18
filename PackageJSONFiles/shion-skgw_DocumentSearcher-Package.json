@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "DocumentSearcher", "package.targets": [{"dependencies": [], "name": "RegexMatcher"}, {"dependencies": ["RegexMatcher"], "name": "swift"}], "testDependencies": []}

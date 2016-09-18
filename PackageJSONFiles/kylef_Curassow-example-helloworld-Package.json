@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/kylef/Curassow.git", "version": {"lowerBound": "0.2.0", "upperBound": "0.2.9223372036854775807"}}], "exclude": [], "name": "HelloWorld", "package.targets": [], "testDependencies": []}

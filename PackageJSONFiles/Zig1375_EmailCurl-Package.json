@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "EmailCurl", "package.providers": [{"Brew": "curl"}, {"Apt": "libcurl4-openssl-dev"}], "package.targets": [], "testDependencies": []}

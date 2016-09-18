@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/qpre/octopus.git", "version": {"lowerBound": "1.0.0", "upperBound": "1.9223372036854775807.9223372036854775807"}}, {"url": "https://github.com/Zewo/JSON.git", "version": {"lowerBound": "0.1.0", "upperBound": "0.1.9223372036854775807"}}], "exclude": [], "name": "PhuboAPI", "package.targets": [], "testDependencies": []}

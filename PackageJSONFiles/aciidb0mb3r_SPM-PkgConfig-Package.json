@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "SPM-PkgConfig", "package.targets": [{"dependencies": ["POSIX", "Utility"], "name": "PkgConfig"}, {"dependencies": ["POSIX"], "name": "Utility"}, {"dependencies": ["PkgConfig"], "name": "Runner"}], "testDependencies": []}

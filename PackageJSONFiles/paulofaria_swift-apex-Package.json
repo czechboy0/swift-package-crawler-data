@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/VeniceX/CLibvenice.git", "version": {"lowerBound": "0.6.2", "upperBound": "0.6.3"}}], "exclude": [], "name": "Apex", "package.targets": [{"dependencies": [], "name": "Apex"}, {"dependencies": ["Apex"], "name": "ApexExample"}], "testDependencies": []}

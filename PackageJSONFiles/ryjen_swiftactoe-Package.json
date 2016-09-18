@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/autozimu/Nanomsg.swift.git", "version": {"lowerBound": "0.0.0", "upperBound": "0.9223372036854775807.9223372036854775807"}}], "exclude": [], "name": "SwifTacToe", "package.targets": [], "testDependencies": []}

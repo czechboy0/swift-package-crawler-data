@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "Bird", "package.targets": [{"dependencies": [], "name": "Bird"}, {"dependencies": ["Bird"], "name": "Example"}], "testDependencies": []}

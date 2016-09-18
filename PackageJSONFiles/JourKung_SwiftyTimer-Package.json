@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": ["Sources/Info.plist", "Sources/SwiftyTimer.h", "SwiftyTimerTests"], "package.targets": [], "testDependencies": []}

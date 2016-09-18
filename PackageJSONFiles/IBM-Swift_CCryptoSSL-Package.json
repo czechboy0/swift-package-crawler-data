@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "OpenSSL", "package.providers": [{"Apt": "openssl libssl-dev"}], "package.targets": [], "pkgConfig": "openssl", "testDependencies": []}

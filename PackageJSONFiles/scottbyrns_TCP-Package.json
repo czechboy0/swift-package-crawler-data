@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/VeniceX/IP.git", "version": {"lowerBound": "0.4.0", "upperBound": "0.4.9223372036854775807"}}, {"url": "https://github.com/scottbyrns/Data.git", "version": {"lowerBound": "0.4.0", "upperBound": "0.4.9223372036854775807"}}], "exclude": [], "name": "TCP", "package.targets": [], "testDependencies": []}

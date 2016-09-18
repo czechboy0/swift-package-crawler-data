@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "llbuild", "package.targets": [{"dependencies": ["llvm"], "name": "Basic"}, {"dependencies": ["Basic", "llvm"], "name": "Core"}, {"dependencies": ["Basic", "llvm", "Core"], "name": "BuildSystem"}, {"dependencies": ["Basic", "llvm", "Core", "BuildSystem"], "name": "swift-build-tool"}], "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [], "exclude": [], "name": "Objc", "package.targets": [{"dependencies": ["cpplib"], "name": "cpp-exec"}, {"dependencies": ["cpplib"], "name": "cwrapper"}, {"dependencies": ["cwrapper"], "name": "swift-exec"}], "testDependencies": []}

@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/open-swift/C7.git", "version": {"lowerBound": "0.12.0", "upperBound": "0.12.9223372036854775807"}}], "exclude": [], "name": "Base64", "package.targets": [], "testDependencies": []}

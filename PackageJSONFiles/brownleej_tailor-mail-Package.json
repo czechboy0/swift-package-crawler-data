@@ -1,1 +1,0 @@
-{"dependencies": [{"url": "https://github.com/brownleej/tailor-controller", "version": {"lowerBound": "3.0.0-alpha2", "upperBound": "3.0.1"}}], "exclude": [], "name": "TailorMail", "package.targets": [], "testDependencies": []}
